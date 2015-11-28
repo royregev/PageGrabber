@@ -1,0 +1,6 @@
+{
+    "name": "PageGrabber/PageGrabber",
+    "require": {
+        "phpunit/phpunit": "4.8.18"
+    }
+}
